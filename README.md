@@ -4,18 +4,18 @@
 [https://www.linkedin.com/in/stanambrose/](https://www.linkedin.com/in/stanambrose/)
 
 ## Summary
-Full-time undergraduate student at Arizona State University studying Computer Information Systems in the W. P. Carey School of Business as well as a Global Information Solutions Intern at Avnet, Inc. My technical interests are front-end development, mobile app development and network security.
+Full-time undergraduate student at Arizona State University studying Computer Information Systems in the W. P. Carey School of Business as well as a Global Information Solutions Intern at Avnet, Inc. My technical interests are front-end development, mobile app development, network security and IT consulting.
 
 ## Education
 Arizona State University - Tempe, AZ
 Bachelors of Science in Computer Information Systems
 Aug 2013 – May 2017
-GPA 3.5/4.00
+GPA 3.42/4.00
 
 ## Experience
 ### Avnet, Inc | May 2016 - Present
 **Global Information Solutions Intern**
-Managed project priorities, deadlines, and deliverables to consolidate four individual data sources into a single web-based dashboard. Built a customized dashboard utilizing jQuery, JavaScript with REST API's.
+Managed project priorities, deadlines, and deliverables to consolidate four individual data sources into a single web-based dashboard. Built a customized dashboard utilizing jQuery and JavaScript with REST API's.
 
 ### Apple, Inc | June 2014 - May 2016
 **Technical Advisor**
@@ -26,8 +26,8 @@ Provided world-class technical support for Apple’s products and accessories, f
 | :------------ | :---------------------- | :------------------ |
 | HTML5         | MS Office               | Linux (Ubuntu)      |
 | CSS3          | MS Power BI             | Windows 7           |
-| JavaScript    | IBM Bluemix             | Mac OS X            |
+| JavaScript    | IBM Bluemix             | macOS               |
 | jQuery        | IBM WebSphere Commerce  | iOS                 |
-| Java          | Photoshop               |                     |
-| C#            | Jenkins                 |                     |
+| Java          | Adobe Photoshop         |                     |
+| C#            | Git                     |                     |
 | SQL           |                         |                     |
